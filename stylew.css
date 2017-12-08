@@ -377,6 +377,10 @@ h2 {
 	padding-bottom: .25em;
 	
 }
+	
+	.arrow-about2{
+		display: none;
+	}
 
 .arrow-about{
 	height: 6vh;
@@ -928,8 +932,10 @@ h2 {
 	
 }
 
-
-.arrow-about{
+	.arrow-about{
+		display: none;
+	}
+.arrow-about2{
 	height: 6vh;
 	max-height: 50px;
 	width: auto;
